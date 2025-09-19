@@ -12,5 +12,5 @@ EditorBuildSettings:
     path: Assets/Scenes/MoonLevel.unity
     guid: 2edbc931b9a1abe4ab5c0ec346f33c3b
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 89890d5a808831644b2deb68c3c19d4b, type: 3}
   m_UseUCBPForAssetBundles: 0
